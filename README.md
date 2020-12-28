@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I like to build things for the web!
+
+- [LinkedIn](https://www.linkedin.com/in/john-allen-354793198/)
 
 <!--
 **jallen9674/jallen9674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
